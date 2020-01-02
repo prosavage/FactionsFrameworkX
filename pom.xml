@@ -37,6 +37,22 @@
             <version>1.14.4-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
+
+        <!-- Factions Plugins -->
+
+        <!-- SavageFactions -->
+        <dependency>
+            <groupId>com.massivecraft</groupId>
+            <artifactId>SavageFactions</artifactId>
+            <version>1.6.9.5-U0.2.1-RC-1.6.2-RC-2.5-RC-9</version>
+        </dependency>
+        <!-- FactionsUUID -->
+        <dependency>
+            <groupId>com.massivecraft</groupId>
+            <artifactId>FactionsUUID</artifactId>
+            <version>1.6.9.5-U0.5.6</version>
+        </dependency>
+
     </dependencies>
 
     <build>
